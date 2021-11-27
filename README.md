@@ -15,3 +15,4 @@ This repository contains assignments and practicals of Enterprise Application De
 ###
 | Practical no:            | Title            | Submission Date            | Deadline Date            |
 | :---            | :---            | :---            | :---            |
+| 1                | [Git Commands](https://github.com/kusalmagar/EAD/tree/master/Practical/Lab1)            | 27 Nov 2021           | 3rd Dec 2021          |
