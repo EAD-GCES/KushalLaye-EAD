@@ -7,7 +7,7 @@ This repository contains assignments and practicals of Enterprise Application De
 | Assignment no:      | Title                   | Submission Date                   | Deadline Date                   |
 | :---            |  :---                               | :---                   | :---                   |
 | 1                   | [Government Enterprise Architecture Framework](https://github.com/kusalmagar/EAD/tree/master/Assignment/Assignment-01)       | 25 Nov 2021                   | 26 Nov 2021                   |
-| 2                   | [Agile Methodology](https://github.com/kusalmagar/EAD/tree/master/Assignment/Assignment-02)       | 3 Jan 2022                   | 10 Jan 2022                   |
+| 2                   | [Agile Methodology](https://github.com/kusalmagar/EAD/tree/master/Assignment/Assignment-02)       | 9 Jan 2022                   | 10 Jan 2022                   |
 
 
 ###
